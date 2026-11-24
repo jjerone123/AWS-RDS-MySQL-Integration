@@ -139,9 +139,7 @@ Stopped EC2 and RDS resources after completing testing to minimize compute charg
 
 ![RDS Database Available](Database%20Available.png)
 
-### Database Configuration
 
-![Database Configuration](./Database.png)
 ### MySQL Terminal Verification
 
 ![MySQL Terminal](Terminal.jpeg)
