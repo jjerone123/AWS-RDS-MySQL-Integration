@@ -132,14 +132,20 @@ Stopped EC2 and RDS resources after completing testing to minimize compute charg
 - Successfully performed all four CRUD operations.
 - Demonstrated cloud networking and troubleshooting skills.
 
+
 ## Screenshots
 
-Project implementation and verification screenshots will be included here.
+### AWS RDS Database Deployment
 
-## Skills Demonstrated
+![RDS Database Available](Database%20Available.png)
 
-AWS Cloud Engineering | Cloud Networking | Database Administration | Linux | SQL | Infrastructure Security | Troubleshooting
+### Database Configuration
 
-## Project Status
+![Database Configuration](./Database.png)
+### MySQL Terminal Verification
 
-Technical implementation completed.
+![MySQL Terminal](Terminal.jpeg)
+
+### AWS Resource Cost Management
+
+![RDS Database Stopped](Database%20%28stopped%29.jpeg)
